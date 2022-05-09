@@ -1,7 +1,7 @@
 Package: mdlUserManagerUI
 Type: Package
 Title: user management unity for dms
-Version: 0.2.0
+Version: 1.0.0
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
